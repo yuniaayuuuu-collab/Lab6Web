@@ -1,1 +1,5 @@
 # Lab6Web
+<img width="494" height="446" alt="ss1" src="https://github.com/user-attachments/assets/d735eaf0-76a3-4cf3-b4b2-12c54e0943f6" />
+<img width="731" height="434" alt="ss3" src="https://github.com/user-attachments/assets/e2b7a446-7304-4fe8-92c1-b8abb05e709d" />
+<img width="390" height="438" alt="ss4" src="https://github.com/user-attachments/assets/d3b491ff-504f-470d-b4fc-6e674933a223" />
+<img width="365" height="435" alt="ss2" src="https://github.com/user-attachments/assets/756c2b06-f85d-4cac-989c-385ceb2e429c" />
